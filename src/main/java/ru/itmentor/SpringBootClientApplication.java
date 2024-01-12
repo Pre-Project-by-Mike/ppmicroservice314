@@ -2,6 +2,7 @@ package ru.itmentor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 /**
  1) Получить список всех пользователей
 
@@ -34,11 +35,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  3) Для того, чтобы получить необходимый заголовок из запроса, необходимо использовать тип данных ResponseEntity ** в качестве ответа на ваш запрос.
  **/
 @SpringBootApplication
-public class SpringBootSecurityDemoApplication {
+public class SpringBootClientApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(SpringBootSecurityDemoApplication.class, args);
+		SpringApplication.run(SpringBootClientApplication.class, args);
 
 	}
 

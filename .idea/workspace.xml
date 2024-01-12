@@ -10,8 +10,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
   </component>
   <component name="ProjectId" id="2aWCfSp2ltIQVnquXAv06I3pS1U" />
   <component name="ProjectViewState">
@@ -20,9 +43,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/snake2/projects/itmentor/pre-project/microservice/ppmicroservice314/src/main/java/ru/itmentor"
+    "last_opened_file_path": "C:/Users/sysadmin-02/itmentor/pre-project/ppmicroservice314",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.48045978",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "b96c56954de510fac534e58a4388ae62"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -36,21 +68,57 @@
       <recent name="C:\Users\snake2\projects\itmentor\pre-project\microservice\ppmicroservice314\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="SpringBootSecurityDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SpringBootClientApplicationTest">
+    <configuration name="SpringBootClientApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppmicroservice314" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.itmentor.SpringBootSecurityDemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itmentor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.itmentor" />
+      <option name="MAIN_CLASS_NAME" value="ru.itmentor.SpringBootClientApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootClientApplicationTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppmicroservice314" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itmentor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.itmentor" />
+      <option name="MAIN_CLASS_NAME" value="ru.itmentor.SpringBootClientApplicationTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ppmicroservice314" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.itmentor.SpringBootClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringBootSecurityDemoApplication" />
+        <item itemvalue="JUnit.SpringBootClientApplicationTest" />
+        <item itemvalue="JUnit.SpringBootClientApplicationTest.contextLoads" />
+        <item itemvalue="Spring Boot.SpringBootClientApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.4521158" />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
