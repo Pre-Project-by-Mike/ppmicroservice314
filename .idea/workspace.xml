@@ -68,7 +68,7 @@
       <recent name="C:\Users\snake2\projects\itmentor\pre-project\microservice\ppmicroservice314\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SpringBootClientApplicationTest">
+  <component name="RunManager" selected="JUnit.SpringBootClientApplicationTest.contextLoads">
     <configuration name="SpringBootClientApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ppmicroservice314" />
       <extension name="coverage">
@@ -109,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringBootClientApplicationTest" />
         <item itemvalue="JUnit.SpringBootClientApplicationTest.contextLoads" />
+        <item itemvalue="JUnit.SpringBootClientApplicationTest" />
         <item itemvalue="Spring Boot.SpringBootClientApplication" />
       </list>
     </recent_temporary>
